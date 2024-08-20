@@ -1,4 +1,4 @@
-package com.jailton.apptemplateproject.baseclasses
+package com.vitorpiccoli.calculadora.baseclasses
 
 data class Item(
     val cnpj: String = "",

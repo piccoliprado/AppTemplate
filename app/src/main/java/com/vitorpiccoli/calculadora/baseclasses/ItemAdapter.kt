@@ -1,4 +1,4 @@
-package com.jailton.apptemplateproject.baseclasses
+package com.vitorpiccoli.calculadora.baseclasses
 
 
 import android.content.Context
@@ -13,7 +13,7 @@ import android.widget.TextView
 import android.widget.Toast
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
-import com.jailton.apptemplateproject.R
+import com.vitorpiccoli.calculadora.R
 
 class StoreAdapter(
     private val context: Context,

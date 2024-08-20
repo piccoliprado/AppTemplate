@@ -1,4 +1,4 @@
-package com.jailton.apptemplateproject
+package com.vitorpiccoli.calculadora
 
 import org.junit.Test
 

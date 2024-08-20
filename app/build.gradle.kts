@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.jailton.apptemplateproject"
+    namespace = "com.vitorpiccoli.calculadora"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.jailton.apptemplateproject"
+        applicationId = "com.vitorpiccoli.calculadora"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
